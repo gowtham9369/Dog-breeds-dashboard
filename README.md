@@ -32,22 +32,6 @@ Especially important are
 - List all breeds
 - By breed
 
-## 🎯 Your Task
-
-### Live Coding Challenge (20-30 minutes)
-
-✅ Select dog breeds  
-✅ View breed images  
-✅ Search/Filter Dropdowen for selecting the Breed (if time left)  
-
-### Take-home Assignment (2-3 hours)
-
-✅ Search/Filter Dropdowen for selecting the Breed  
-✅ Add/remove favorites by heart click  
-✅ Add/remove favorites by Drad'n'Drop  
-✅ Use **React Context** for state management  
-✅ Test with **Vitest**  
-
 ## 💻 Sample Visualization
 
 This is what a very simple version of the app could look like:
@@ -56,6 +40,17 @@ This is what a very simple version of the app could look like:
 ## 📂 Project Structure
 
 Your goal is to build an extensible and maintainable project structure following best practices.
+
+DogBreed Folder Structure
+├── src
+│   ├── assets        # Static assets like images, icons, and styles
+│   ├── components    # Reusable UI components (buttons, cards, modals, etc.)
+│   ├── context       # React Context API for state management
+│   ├── hooks         # Custom React hooks for fetching and managing state
+│   ├── layout        # Layout components like headers, footers, and wrappers
+│   ├── services      # API service functions (e.g., fetching breed images)
+│   ├── tests         # Unit and integration test files
+
 
 ## 🧪 Running Tests
 
