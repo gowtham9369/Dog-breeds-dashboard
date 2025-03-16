@@ -1,4 +1,4 @@
-# 🐶 Dog Breed App Challenge
+# 🐶 Dog Breed App
 
 This exercise is a bare-bones version of a dog breed app, where we ask candidates to build out a small application. The goal: give both the candidate and the FAST AI Movies team a chance to interact on a realistic, but limited (shooting for just a few hours), task. We see this as a two-way evaluation for the team and the candidate to decide if it's a good fit.
 
